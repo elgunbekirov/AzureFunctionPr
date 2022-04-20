@@ -1,0 +1,6 @@
+C:\Users\resad\Desktop\Projects\elg\Interview\Tests\bin\Debug\Tests.dll
+C:\Users\resad\Desktop\Projects\elg\Interview\Tests\bin\Debug\Tests.pdb
+C:\Users\resad\Desktop\Projects\elg\Interview\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\resad\Desktop\Projects\elg\Interview\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\resad\Desktop\Projects\elg\Interview\Tests\obj\Debug\Tests.dll
+C:\Users\resad\Desktop\Projects\elg\Interview\Tests\obj\Debug\Tests.pdb
