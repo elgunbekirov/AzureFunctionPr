@@ -41,6 +41,11 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+bin/
+obj/
+bin/Debug/
+obj/Debug/
+
 *_i.c
 *_p.c
 *_i.h
